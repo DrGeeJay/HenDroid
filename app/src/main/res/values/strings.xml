@@ -1,0 +1,56 @@
+<resources>
+    <!-- DO NOT TRANSLATE! NÃO TRADUZIR! -->
+    <string name="app_name" translatable="false">HenDroid</string>
+    <string name="app_version" translatable="false">1.0</string>
+    <string name="henDroidRepo" translatable="false">https://github.com/Wolfterro/HenDroid</string>
+    <string name="baseURL" translatable="false">https://e-hentai.org/g/*****/*****</string>
+    <string name="ball" translatable="false">• ● • ● • ● •</string>
+    <!-- =============================== -->
+
+    <string name="notAvailable">N/D</string>
+
+    <!-- Strings da activity_main.xml -->
+    <string name="insertAlbumURL">Insira a URL do álbum:</string>
+    <string name="checkAlbum">Verificar Álbum</string>
+
+    <string name="obtainingInformations">Obtendo Informações...</string>
+    <string name="standBy">Por favor, aguarde enquanto as informações do álbum estão sendo recuperadas.</string>
+    <string name="thisCanTakeAWhile">Dependendo do tamanho do álbum, este procedimento pode demorar um pouco...</string>
+    <!-- ============================= -->
+
+    <!-- Strings da activity_about.xml -->
+    <string name="about">Sobre</string>
+    <string name="aboutHenDroid">Sobre HenDroid</string>
+    <string name="aboutText">HenDroid é um simples aplicativo que possui a função de mostrar
+        informações e fazer o download dos álbuns do e-hentai.
+        \n\nCom essas informações, é possível visualizar a capa
+        do álbum, o nome do álbum e o número de páginas, permitindo que o aplicativo consiga baixar
+        os doujinshis e mangás diretamente para o seu dispositivo.</string>
+    <string name="aboutLicensed">Este aplicativo foi disponibilizado sob os termos da licença MIT.</string>
+    <!-- ============================= -->
+
+    <!-- Strings da activity_info.xml -->
+    <string name="albumInformations">Informações do Álbum</string>
+    <string name="cover">Capa</string>
+    <string name="albumName">Nome do Álbum</string>
+    <string name="albumLanguage">Idioma do Álbum</string>
+    <string name="uploader">Uploader</string>
+    <string name="uploadDate">Data do Upload</string>
+    <string name="size">Tamanho</string>
+    <string name="numberOfPages">Número de Páginas</string>
+    <string name="outputDir">Pasta de Destino</string>
+    <string name="downloadAlbum">Baixar Álbum</string>
+
+    <string name="downloadingAlbum">Baixando Álbum...</string>
+    <string name="pleaseWaitWhileImagesAreBeingDownloaded">Por favor, aguarde enquanto as imagens
+        estão sendo baixadas.</string>
+    <string name="downloadingImageXFromY" formatted="false">Baixando imagem %d de %d...</string>
+    <string name="downloadFinishedCheckOutputDir">Download terminado! Verifique a pasta de destino.</string>
+    <!-- ============================ -->
+
+    <!-- Mensagens de erro -->
+    <string name="pleaseInsertURL">Por favor, insira a URL do álbum e tente novamente!</string>
+    <string name="errorNoPermissionGiven">Erro! O aplicativo não poderá funcionar sem as devidas permissões!</string>
+    <string name="errorCouldNotObtainInformations">Erro! Não foi possível obter informações! Erro:</string>
+    <!-- ================= -->
+</resources>
