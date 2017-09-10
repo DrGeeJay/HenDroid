@@ -13,6 +13,8 @@
 
 ###### Assim que todas as informações forem resgatadas, o aplicativo irá mostrar uma tela com todas as informações disponíveis. Na parte inferior desta tela, haverá um botão (BAIXAR ÁLBUM) para iniciar o download de todas as imagens do álbum para a pasta de destino indicada logo acima.
 
+###### Este aplicativo é baseado em outro programa desenvolvido por mim, [G.E-Downloader](https://github.com/Wolfterro/G.E-Downloader), escrito em Python e disponível para as plataformas Windows e Linux, o programa conta com uma interface gráfica em PyQt4.
+
 ###### Veja um exemplo abaixo:
 
 <img src="https://i.imgur.com/sLIFs3m.png" />
